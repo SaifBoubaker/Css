@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    font-family: Roboto;
+    background-image: url(./background.jpg);
+}
+nav{
+    display: inline-block;
+    float:right;
+    width: 50%;
+    margin-top: 7%;
+    margin-right: 2%;
+}
+nav a{
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+
+}
+nav a:hover{
+    color:#FA9332 ;
+}
+#logo{
+display: inline-block;
+margin-top: 3%;
+margin-left: 3%;
+
+}
+h1{
+    display: inline-block;
+    font-size: 90px;
+    color: white;
+
+}
+span{
+    color:#FA9332
+}
+p,th,td{
+    color: white;
+}
+#Home{
+    background-color: ua;
+    height: 200px;
+    padding: 25px;
+}
+
+#saif{
+    font-size:28px;
+    float: left;
+    padding-top: 2%;
+    padding-left: 30%;
+    font-weight: bold;
+}
+img{
+    padding-right: 20%;
+}
+h3{
+    color: #FA9332;
+    font-size: 28px;
+}
+
+#About{
+    padding: 30px;
+}
+#Work{
+    padding: 30px;
+}
+
+#Resume{
+    padding: 30px;
+}
+#Contact{
+    padding: 30px;
+}
+
